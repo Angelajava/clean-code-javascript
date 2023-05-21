@@ -1,7 +1,7 @@
 # clean-code-javascript
 
 ## Table of Contents
-
+ 
 1. [Introduction](#introduction)
 2. [Variables](#variables)
 3. [Functions](#functions)
